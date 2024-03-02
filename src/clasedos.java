@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class clasedos {
+public class clasedos {
+    System.out.println("hola universo");
 }
